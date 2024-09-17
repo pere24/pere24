@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 ## I'm [Peremobo Nwafor] 👋
-I'm a passionate Business with a strong foundation in data analysis, statistical modeling, and data visualization. I love turning raw data into meaningful insights 
+I'm a passionate Data analyst with a strong foundation in data analysis, statistical modeling, and data visualization. I love turning raw data into meaningful insights 
 that drive business decisions. Here you'll find some of the projects I've been working on, showcasing my skills and expertise in data analytics.
 
 ## 🛠 Skills & Tools
