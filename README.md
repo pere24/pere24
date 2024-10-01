@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 ## Hi there 👋 My name is [Peremobo Nwafor] 
 
-## I am a Marketing Executive, a Computer Science Graduate, and a Data Analyst
+## I am a Marketing Executive, a Computer Science Graduate, and a Business Analyst
 
 I'm a passionate Data analyst with a strong foundation in Sales & marketing, Data analysis, statistical modeling, and data visualization. 
 
