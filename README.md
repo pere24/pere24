@@ -54,7 +54,7 @@ SQL Challenge 2: Pizza Runner (Exploratory Data Analysis) - https://medium.com/@
 
 Useful Tips to Document Your Data Analysis Project -https://medium.com/@peremobon/useful-tips-to-document-your-data-analysis-project-c00d1814acc2
 
-SQL ANALYSIS OF CUSTOMER BEHAVIOR IN A JAPANESE RESTAURANT (DANNY’S DINNER) -https://medium.com/@peremobon/sql-analysis-of-customer-behavior-in-a-japanese-restaurant-dannys-dinner-8ffc9f0c2ea0
+
 
 <!---
 pere24/pere24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
