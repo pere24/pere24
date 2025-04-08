@@ -1,31 +1,64 @@
-# Welcome to My GitHub Profile!
-## Hi there 👋 My name is [Peremobo Nwafor] 
+## 👋 Hi there, I'm Peremobo Nwafor
 
-## I am a Marketing Executive, a Computer Science Graduate, and a Business Analyst
+🎓 I'm a Computer Science Graduate with a Master's in Data Science Management
+💼 A Marketing Executive turned Business Analyst  
+📊 Passionate Data Scientist & Analyst  
 
-I'm a passionate Data analyst with a strong foundation in Sales & marketing, Data analysis, statistical modeling, and data visualization. 
+---
 
-I collect, manipulate, and thoroughly analyze datasets to derive meaningful insights that drive strategic decisions and solve intricate business challenges.
+### 🚀 About Me
 
-📝 I regularly write articles on https://medium.com/@peremobon
+I'm a data-driven professional with a solid foundation in sales & marketing, data analysis, statistical modeling, and data visualization. I specialize in collecting, transforming, and analyzing complex datasets to uncover actionable insights that solve business problems and inform decision-making.
 
-🤔 I’m open to job opportunities
+I'm passionate about storytelling with data, building predictive models, and using tools like Python, SQL, and Power BI to drive business impact.
 
-📫 How to reach me: Peremoble@gmail.com 
+---
 
-⚡ Fun fact: I love movies. I play Board games such as Chess, Scrabble, etc.
+### 🛠️ My Tech Stack
+
+- **Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL  
+- **Tools & Platforms:** Jupyter Notebook, Google Colab, Git & GitHub  
+- **Data Visualization:** Power BI, Tableau, Excel  
+- **Machine Learning:** Regression, Classification, Clustering  
+- **Business Tools:** Microsoft Excel, Google Sheets, CRM platforms  
+
+---
+
+### ✍️ I Write On:
+- [📖 Medium Blog](https://medium.com/@peremobon)
+
+---
+
+### 🌐 Let's Connect
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/perenwafor/)
+- 📬 Email: Peremoble@gmail.com
+
+---
+
+### 🤔 I’m Open To:
+- Full-time roles in Data Science or 
+- Freelance or remote opportunities  
+- Collaborations on data projects  
+
+---
+
+### ⚡ Fun Fact
+I enjoy movies, playing chess, and dominating Scrabble boards on weekends!
+
+---
+
+> 💡 *“Data is the new oil — but insight is the engine that drives value.”*
 
 
 
 🌐 Connect with me:
 
-![meduim]https://medium.com/@peremobon
+![medium]https://medium.com/@peremobon
 
 https://www.linkedin.com/in/perenwafor/
 
-
 - 
-
 -## 💻Tech Stack:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534](https://github.com/user-attachments/assets/cd3487d9-619b-45f7-b6fe-3c7aead766d8)
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/5682acad-f04e-4ef5-9c84-d9d66d319d76)
@@ -35,20 +68,9 @@ https://www.linkedin.com/in/perenwafor/
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534](https://github.com/user-attachments/assets/306a0d3b-a6dd-4ecb-b713-5c798cff9cd0)
 
 
-
-
-## Other Tech Stack are:
-
-Microsoft Excel
-
-Power Bi
-
-Tableau
-
-
 ## Latest Blogs
 
-https://medium.com/@peremobon/sql-challenge-2-pizza-runner-data-wrangling-a0f811553cf6
+https://medium.com/@peremobon/telco-customer-churn-analysis-model-insights-845623091d87
 
 SQL Challenge 2: Pizza Runner (Exploratory Data Analysis) - https://medium.com/@peremobon/sql-challenge-2-pizza-runner-exploratory-data-analysis-700f006f9680
 
