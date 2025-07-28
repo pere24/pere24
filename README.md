@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science Graduate with a Master's in Data Science Management
 💼 A Marketing Executive turned Business Analyst  
-📊 Passionate Data Scientist & Analyst  
+📊 Passionate Data Scientist  
 
 ---
 
