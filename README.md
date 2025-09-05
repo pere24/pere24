@@ -72,8 +72,6 @@ https://www.linkedin.com/in/perenwafor/
 
 https://medium.com/@peremobon/telco-customer-churn-analysis-model-insights-845623091d87
 
-SQL Challenge 2: Pizza Runner (Exploratory Data Analysis) - https://medium.com/@peremobon/sql-challenge-2-pizza-runner-exploratory-data-analysis-700f006f9680
-
 Useful Tips to Document Your Data Analysis Project -https://medium.com/@peremobon/useful-tips-to-document-your-data-analysis-project-c00d1814acc2
 
 
